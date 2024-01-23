@@ -24,8 +24,7 @@
 	## Estructuracion de carpetas
 	
 	Cree mi proyecto de una manera estructurada diciendo las implementaciones que se usaran de los diferentes service, 
-	controller que se puedan usar en la API así tambien como otros archivos aparte que contienen constantes o interfaces que se usan dentro de los demás 
-  services.
+	controller que se puedan usar en la API así tambien como otros archivos aparte que contienen constantes o interfaces que se usan dentro de los demás services.
 
 
 	## Implementación
